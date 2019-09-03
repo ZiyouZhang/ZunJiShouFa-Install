@@ -6,11 +6,6 @@ Shadowsocks-Python Installation Backup
 内存要求：≥128M
 日期：2018 年 02 月 07 日
 
-## 关于本脚本：
-一键安装 Python 版 Shadowsocks 的最新版。
-友情提示：如果你有问题，请先参考这篇《Shadowsocks Troubleshooting》后再问。
-
-
 ## 默认配置：
 服务器端口：自己设定（如不设定，默认从 9000-19999 之间随机生成）
 密码：自己设定（如不设定，默认为 teddysun.com）
